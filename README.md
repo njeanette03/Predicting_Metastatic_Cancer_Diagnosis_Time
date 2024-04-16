@@ -1,5 +1,5 @@
 # WiDS_Datathon_2024
-This contains my team's submission for the WiDS Datathon 2024 Challenge #2. 
+This contains my team's submission for the WiDS Datathon 2024 Challenge #2: Predict the duration of time it takes for patients to receive metastatic cancer diagnosis. 
 Note: Will add submission after entries have been evaluated and deadline is over. 
 
 ## Description
