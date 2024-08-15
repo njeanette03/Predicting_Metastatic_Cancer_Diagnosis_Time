@@ -1,4 +1,4 @@
-# WiDS_Datathon_2024
+# Overview
 This contains my team's submission for the WiDS Datathon 2024 Challenge #2: Predict the duration of time it takes for patients to receive metastatic cancer diagnosis. 
 
 ## Description
